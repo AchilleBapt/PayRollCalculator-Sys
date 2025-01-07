@@ -2,7 +2,7 @@
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the making of a pay roll system, aplicatios of code for specifique cell to optand se resoltes desiered using google sheets.<br />
 
 
 <h2>Video Demonstration</h2>
