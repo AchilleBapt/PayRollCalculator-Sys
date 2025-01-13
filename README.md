@@ -2,7 +2,8 @@
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the making of a pay roll system, aplicatios of code for specifique cell to optand se resoltes desiered using google sheets.<br />
+
+This tutorial provides a step-by-step guide to creating a payroll system in Google Sheets, including applying specific formulas to cells to achieve the desired results.<br />
 
 
 <h2>Video Demonstration</h2>
