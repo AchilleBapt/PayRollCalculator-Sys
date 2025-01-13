@@ -1,7 +1,7 @@
 # PayRollCalculator-Sys
 
 
-<h1>osTicket - Prerequisites and Installation</h1>
+
 
 This tutorial provides a step-by-step guide to creating a payroll system in Google Sheets, including applying specific formulas to cells to achieve the desired results.<br />
 
@@ -14,7 +14,7 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 
 <img src="https://i.imgur.com/9x9CXBk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+<h1>osTicket - Prerequisites and Installation</h1>
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
