@@ -6,6 +6,8 @@
 This tutorial provides a step-by-step guide to creating a payroll system in Google Sheets, including applying specific formulas to cells to achieve the desired results.<br />
 
 
+- ### [How to set up Google Sheets]
+
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
