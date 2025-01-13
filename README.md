@@ -12,6 +12,9 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 - Click on New, select Google Sheets and create a new spreadsheet
 - Name your spreadsheet (e.g., "Payroll System")
 
+<img src="https://i.imgur.com/9x9CXBk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
