@@ -8,6 +8,10 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 
 - ### [How to set up Google Sheets]
 
+- Open Google Drive
+- Click on New, select Google Sheets and create a new spreadsheet
+- Name your spreadsheet (e.g., "Payroll System")
+
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
