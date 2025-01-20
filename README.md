@@ -14,6 +14,12 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 
 <img src="https://i.imgur.com/9x9CXBk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+- ### [Design the Layout]
+- Name Cells (Date, ourly Rate, Emplyee's name, Houres, Holiday, Holiday Status, T. Houres, R. Houres, Over Time, Houres Paid	Overtime, Paid, Bonus, Other Deductions, Tax (18.2%))
+
+<img src="https://i.imgur.com/x399TAc.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <h1>osTicket - Prerequisites and Installation</h1>
 <h2>Video Demonstration</h2>
 
