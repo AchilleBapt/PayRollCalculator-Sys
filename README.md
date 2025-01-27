@@ -19,6 +19,10 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 
 <img src="https://i.imgur.com/x399TAc.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+- ### [Input Formulas]
+- Will not put formulas in the 4 first cells, the bonus cell and the Other Seductions cell, you will input your on data. The cells will have their on formulas. 
+- (Holiday: FALSE, Holiday Status: =IF(E2,(8*B2)) T. Houres: =D2+D3+D4+D5+D6, R. Houres: =IF(G2>40,40,G2), Over Time: =IF(G2<=H2,"0",G2-H2) Houres Paid: =(H2*B2), Overtime Paid: =(B2*1.5)*I2, Tax (18.2%): =I8*18.2%, Gross Pay: =J2+K2+F2+F3+F4+F5+F6+L2, Net Pay: =I8-N2-M2)
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 <h2>Video Demonstration</h2>
