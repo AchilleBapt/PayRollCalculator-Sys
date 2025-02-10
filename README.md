@@ -25,9 +25,6 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -41,13 +38,22 @@ This tutorial provides a step-by-step guide to creating a payroll system in Goog
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Sign in to Azure Portal or create an account
+Creat a Resource Group
+1 Click on Resouce Group
+2 Click on + Create
+3 Choose your a Subscription 
+4 Name the Resource Group
+5 Choose a Region
+6 Click on Review + create
+7 Click on Create
 
-<h2>Installation Steps</h2>
+Navigate to Virtual Machines
+Click on + Create > Azure Virtual Machine.
+
+Slect Virtual Machine.
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
